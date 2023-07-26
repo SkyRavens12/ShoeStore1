@@ -1,3 +1,7 @@
 .Home {
-    background-image: linear-gradient(to right, #33055D , #DE385A);
+    background: rgb(52,5,94);
+background: -moz-linear-gradient(129deg, rgba(52,5,94,1) 0%, rgba(133,10,148,1) 35%, rgba(253,94,68,1) 64%, rgba(222,56,90,1) 100%);
+background: -webkit-linear-gradient(129deg, rgba(52,5,94,1) 0%, rgba(133,10,148,1) 35%, rgba(253,94,68,1) 64%, rgba(222,56,90,1) 100%);
+background: linear-gradient(129deg, rgba(52,5,94,1) 0%, rgba(133,10,148,1) 35%, rgba(253,94,68,1) 64%, rgba(222,56,90,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#34055e",endColorstr="#de385a",GradientType=1);
 }

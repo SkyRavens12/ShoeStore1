@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class Navbar extends Controller
 {
     public function index(){
-        return view ('navbar');
+        return view ('home');
     }
 }
