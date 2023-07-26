@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
+
+
 .Home {
     background: rgb(52,5,94);
 background: -moz-linear-gradient(129deg, rgba(52,5,94,1) 0%, rgba(133,10,148,1) 35%, rgba(253,94,68,1) 64%, rgba(222,56,90,1) 100%);
@@ -5,3 +8,28 @@ background: -webkit-linear-gradient(129deg, rgba(52,5,94,1) 0%, rgba(133,10,148,
 background: linear-gradient(129deg, rgba(52,5,94,1) 0%, rgba(133,10,148,1) 35%, rgba(253,94,68,1) 64%, rgba(222,56,90,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#34055e",endColorstr="#de385a",GradientType=1);
 }
+
+.jd{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 120px;
+line-height: 145px;
+color:#FFFFFF;
+}
+.jddv{
+position: absolute;
+width: 525px;
+height: 435px;
+left: 135px;
+top: 319px;
+}
+.btnaddbag{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    padding: 1.5rem;
+}
+
