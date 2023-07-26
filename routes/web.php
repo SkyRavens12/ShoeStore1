@@ -14,4 +14,7 @@ use App\Http\Controllers\Navbar;
 |
 */
 
-Route::get('/', [Navbar::class, 'index']);
+// Route::get('/', [Navbar::class, 'index']);
+Route::get('/', function () {
+    return view('pages.home', ['name' => 'Finn']);
+});
