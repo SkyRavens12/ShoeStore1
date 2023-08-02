@@ -10,7 +10,7 @@
                         <a  class="btn btn-light btn-lg btnaddbag rounded-pill m-auto" href="#" role="button">ADD TO BAG  <i class="fa-solid fa-bag-shopping"></i></a>
                     </div>
                     <div class="col">
-                        <img src="/gambar/Group Sepatu.png" alt="sepatu.PNG" width="700" height="700">
+                        <img src="/gambar/Group Sepatu.png" alt="sepatu.PNG" width="650" height="650">
                     </div>
 
                 </div>
