@@ -76,3 +76,11 @@ nav ul li a{
 nav ul li a:hover{
     text-decoration: underline;
 }
+
+.New_Rec{
+    display: block;
+width: 1440px;
+height: 258px;
+justify-content: center;
+align-items: center;
+}

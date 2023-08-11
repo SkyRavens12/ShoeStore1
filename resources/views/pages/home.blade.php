@@ -10,7 +10,7 @@
                         <a  class="btn btn-light btn-lg btnaddbag rounded-pill m-auto" href="#" role="button">ADD TO BAG  <i class="fa-solid fa-bag-shopping"></i></a>
                     </div>
                     <div class="col">
-                        <img src="/gambar/Group Sepatu.png" alt="sepatu.PNG" width="650" height="650">
+                        <img src="gambar/Group Sepatu.png" alt="sepatu.PNG" width="650" height="650">
                     </div>
 
                 </div>
@@ -42,7 +42,7 @@
                             <div id="frame_5">
         
                             </div>
-                            <img src="skins/unnamed__2__removebg_preview_1.png" id="unnamed__2__removebg_preview_1">
+                            <img src="gambar/unnamed__2__removebg_preview_1.png" id="unnamed__2__removebg_preview_1">
         
                         </div>
         
@@ -51,7 +51,7 @@
                             <div id="frame_6">
         
                             </div>
-                            <img src="skins/unnamed__3__removebg_preview_1.png" id="unnamed__3__removebg_preview_1">
+                            <img src="gambar/unnamed__3__removebg_preview_1.png" id="unnamed__3__removebg_preview_1">
         
                         </div>
         
@@ -60,7 +60,7 @@
                             <div id="frame_4">
         
                             </div>
-                            <img src="skins/unnamed_removebg_preview_1.png" id="unnamed_removebg_preview_1">
+                            <img src="gambar/unnamed_removebg_preview_1.png" id="unnamed_removebg_preview_1">
         
                         </div>
         

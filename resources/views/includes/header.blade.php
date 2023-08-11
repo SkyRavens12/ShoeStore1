@@ -35,7 +35,27 @@
                         <li><a class="dropdown-item" href="#">Contact us</a></li>
                     </ul>
                 </li>
+                
+                <li class="nav-item dropdown">
+                    <a class="nav-link mx-2 dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" 
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        Footwear
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <li><a class="dropdown-item" href="#">Active</a></li>
+                        <li><a class="dropdown-item" href="#">Boots</a></li>
+                        <li><a class="dropdown-item" href="#">Sandals</a></li>
+                        <li><a class="dropdown-item" href="#">Signature</a></li>
+                        <li><a class="dropdown-item" href="#">Sneakers</a></li>
+                    </ul>
+
+            </li>
             </ul>
+
+            
+
+            
+
             <ul class="navbar-nav ms-auto d-none d-lg-inline-flex">
                 <li class="nav-item mx-2">
                     <a class="nav-link text-dark h5" href="" target="blank"><i
