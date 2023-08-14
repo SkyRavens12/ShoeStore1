@@ -17,89 +17,50 @@
             </div>
         </div>
 
-        <div class="New_Rec">
-            <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-                <meta http-equiv="content-type" content="text/html" charset="utf-8">
-                <title>frame_255</title>
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <meta name="description" content="">
-                <link rel="StyleSheet" href="frame_255.css">
-                <script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js?v=6"></script>
-                <!-- Add your custom HEAD content here -->
-        
-            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Manrope:400,700,800"></head>
-            <body>
-                <div id="content-container">
-                    <div id="_bg__frame_255"></div>
-        
-                    <div id="group_13">
-                        <div id="rectangle_4"></div>
-                        <div id="line_1"></div>
-                        <div id="line_2"></div>
-        
-                        <div id="group_12">
-        
-                            <div id="frame_5">
-        
-                            </div>
-                            <img src="gambar/unnamed__2__removebg_preview_1.png" id="unnamed__2__removebg_preview_1">
-        
-                        </div>
-        
-                        <div id="group_8">
-        
-                            <div id="frame_6">
-        
-                            </div>
-                            <img src="gambar/unnamed__3__removebg_preview_1.png" id="unnamed__3__removebg_preview_1">
-        
-                        </div>
-        
-                        <div id="group_10">
-        
-                            <div id="frame_4">
-        
-                            </div>
-                            <img src="gambar/unnamed_removebg_preview_1.png" id="unnamed_removebg_preview_1">
-        
-                        </div>
-        
-                        <div id="frame_8">
-                            <div id="vtg_v_2_hi_black_ws">
-                                VTG V.2 HI Black WS
-                            </div>
-                            <div id="shop_now__">
-                                Shop Now +
-                            </div>
-        
-                        </div>
-        
-                        <div id="frame_9">
-                            <div id="vtg_courth_hi_natural_navy_gs">
-                                VTG Courth Hi<br>Natur	al Navy GS
-                            </div>
-                            <div id="shop_now___ek1">
-                                Shop Now +
-                            </div>
-        
-                        </div>
-        
-                        <div id="frame_10">
-                            <div id="vulcan_hi_navy_ws">
-                                Vulcan Hi Navy WS
-                            </div>
-                            <div id="shop_now___ek2">
-                                Shop Now +
-                            </div>
-        
-                        </div>
-        
-                    </div>
-        
+        <!-- For more settings use the AutoHTML plugin tab ... --> 
+ <div class="frame-255" >
+    <div class="group-13" >
+          <div class="rectangle-4"  >
+          </div>
+          <div class="line-1" >
+          </div>
+          <div class="line-2" >
+          </div>
+          <div class="group-12" >
+                <div class="frame-5" >
                 </div>
-            
-        </body></html>
-        </div>
+                <img class="unnamed-2-removebg-preview-1" src="gambar/unnamed_2_removebg-preview1.png"/>
+          </div>
+          <div class="group-8" >
+                <div class="frame-6" >
+                </div>
+                <img class="unnamed-3-removebg-preview-1" src="unnamed-3-removebg-preview-1.png" />
+          </div>
+          <div class="group-10" >
+                <div class="frame-4" >
+                </div>
+                <img class="unnamed-removebg-preview-1" src="unnamed-removebg-preview-1.png" />
+          </div>
+          <div class="frame-8" >
+                <div class="vtg-v-2-hi-black-ws" >
+VTG V.2 HI Black WS </div>
+                <div class="shop-now" >
+Shop Now + </div>
+          </div>
+          <div class="frame-9" >
+                <div class="vtg-courth-hi-natural-navy-gs" >
+VTG Courth Hi<br/>Natural Navy GS </div>
+                <div class="shop-now" >
+Shop Now + </div>
+          </div>
+          <div class="frame-10" >
+                <div class="vulcan-hi-navy-ws" >
+Vulcan Hi Navy WS </div>
+                <div class="shop-now" >
+Shop Now + </div>
+          </div>
+    </div>
+</div>
         
 
 
