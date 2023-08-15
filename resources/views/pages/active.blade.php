@@ -1,9 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+</body>
+</html>
+
 <!-- For more settings use the AutoHTML plugin tab ... --> 
 <div class="active" >
     <img class="image-active" src="image-active.png" />
     <div class="ive" >
 IVE </div>
-    <div class="active2" >
+    <div class="active2" ><!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+    <body class="Home">
+    <body class="New_Rec">
+
+</body>
+</html>
 ACTIVE </div>
     <div class="avaliablitiy" >
 Avaliablitiy </div>

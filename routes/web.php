@@ -18,3 +18,7 @@ use App\Http\Controllers\Navbar;
 Route::get('/', function () {
     return view('pages.home', ['name' => 'Finn']);
 });
+
+Route::get('/active', function () {
+    return view('pages.active');
+});
