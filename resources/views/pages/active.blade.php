@@ -75,7 +75,7 @@ Rp 395.000,00  Rp 295.000,00 </div>
     </svg>
     <div class="rectangle-2508" >
     </div>
-    <img class="unnamed-1-removebg-preview-3" src="unnamed-1-removebg-preview-3.png" />
+    <img class="unnamed-1-removebg-preview-3" src="gambar/sepatu 4.png" />
     <div class="rectangle-25153" >
     </div>
     <div class="sale3" >
