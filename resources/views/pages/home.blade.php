@@ -29,17 +29,17 @@
           <div class="group-12" >
                 <div class="frame-5" >
                 </div>
-                <img class="unnamed-2-removebg-preview-1" src="gambar/unnamed_2_removebg-preview1.png"/>
+                <img class="unnamed-2-removebg-preview-1" src="gambar/sepatu 1.png"/>
           </div>
           <div class="group-8" >
                 <div class="frame-6" >
                 </div>
-                <img class="unnamed-3-removebg-preview-1" src="unnamed-3-removebg-preview-1.png" />
+                <img class="unnamed-3-removebg-preview-1" src="gambar/sepatu 2.png" />
           </div>
           <div class="group-10" >
                 <div class="frame-4" >
                 </div>
-                <img class="unnamed-removebg-preview-1" src="unnamed-removebg-preview-1.png" />
+                <img class="unnamed-removebg-preview-1" src="gambar/sepatu 3.png" />
           </div>
           <div class="frame-8" >
                 <div class="vtg-v-2-hi-black-ws" >

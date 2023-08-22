@@ -8,7 +8,7 @@
 
 <!-- For more settings use the AutoHTML plugin tab ... --> 
 <div class="active" >
-    <img class="image 17.png" src="gambar/image 17.png" />
+    <img class="image-active" src="gambar/image 17.png" />
     <div class="ive" >
 IVE </div>
     <div class="active2" ><!DOCTYPE html>
@@ -49,7 +49,7 @@ Rp.0,00     Rp.475.00,00  </div>
     </div>
     <div class="rectangle-2506" >
     </div>
-    <img class="image-19" src="image-19.png" />
+    <img class="image-19" src="gambar/image 19.png" />
     <div class="rectangle-2515" >
     </div>
     <div class="sale" >
@@ -75,7 +75,7 @@ Rp 395.000,00  Rp 295.000,00 </div>
     </svg>
     <div class="rectangle-2508" >
     </div>
-    <img class="unnamed-1-removebg-preview-3" src="unnamed-1-removebg-preview-3.png" />
+    <img class="unnamed-1-removebg-preview-3" src="gambar/sepatu 4.png" />
     <div class="rectangle-25153" >
     </div>
     <div class="sale3" >
