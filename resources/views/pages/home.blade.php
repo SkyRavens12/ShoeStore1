@@ -39,7 +39,7 @@
           <div class="group-10" >
                 <div class="frame-4" >
                 </div>
-                <img class="unnamed-removebg-preview-1" src="gambar/sepatu 100.png" />
+                <img class="unnamed-removebg-preview-1" src="gambar/sepatu 3.png" />
           </div>
           <div class="frame-8" >
                 <div class="vtg-v-2-hi-black-ws" >
