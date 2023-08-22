@@ -8,7 +8,7 @@
 
 <!-- For more settings use the AutoHTML plugin tab ... --> 
 <div class="active" >
-    <img class="image-active" src="image-active.png" />
+    <img class="image 17.png" src="gambar/image 17.png" />
     <div class="ive" >
 IVE </div>
     <div class="active2" ><!DOCTYPE html>
