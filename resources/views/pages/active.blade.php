@@ -61,7 +61,7 @@ Rp 160.000,00  Rp 132.000,00 </div>
     <svg class="vector-163" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M0 0H97" stroke="black"/>
     </svg>
-    <img class="image-20" src="image-20.png" />
+    <img class="image-20" src="gambar/image 20.png" />
     <div class="rectangle-25152" >
     </div>
     <div class="sale2" >
