@@ -88,7 +88,7 @@ Rp 495.000,00  Rp 470.000,00 </div>
     </div>
     <div class="rectangle-2509" >
     </div>
-    <img class="image-21" src="image-21.png" />
+    <img class="image-21" src="gambar/image 21.png" />
     <div class="rectangle-25154" >
     </div>
     <div class="sale4" >
