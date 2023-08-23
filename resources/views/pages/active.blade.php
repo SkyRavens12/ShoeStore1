@@ -9,14 +9,14 @@
 <!-- For more settings use the AutoHTML plugin tab ... --> 
 <div class="active" >
     <img class="image-active" src="gambar/image 17.png" />
-    <div class="ive" >
+    <div class="ive">
 IVE </div>
     <div class="active2" ><!DOCTYPE html>
 <head>
     <link rel="stylesheet" href="css/style.css">
 </head>
-    <body class="Home">
-    <body class="New_Rec">
+    <body class="Active">
+    
 
 </body>
 </html>
