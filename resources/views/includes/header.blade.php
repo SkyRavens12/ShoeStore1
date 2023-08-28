@@ -45,7 +45,7 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <li><a class="dropdown-item" href="active">Active</a></li>
-                        <li><a class="dropdown-item" href="#">Boots</a></li>
+                        <li><a class="dropdown-item" href="boots">Boots</a></li>
                         <li><a class="dropdown-item" href="#">Sandals</a></li>
                         <li><a class="dropdown-item" href="#">Signature</a></li>
                         <li><a class="dropdown-item" href="#">Sneakers</a></li>

@@ -22,3 +22,7 @@ Route::get('/', function () {
 Route::get('/active', function () {
     return view('pages.active');
 });
+
+Route::get('/boots', function () {
+    return view('pages.boots');
+});

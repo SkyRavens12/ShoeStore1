@@ -6,185 +6,243 @@
 </body>
 </html>
 
-<!-- For more settings use the AutoHTML plugin tab ... --> 
-<div class="active" >
-    <img class="image-boots" src="gambar/image 111.png" />
-    <div class="ive">
-IVE </div>
-    <div class="boots" ><!DOCTYPE html>
-<head>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-    <body class="Boots">
-    
 
-</body>
-</html>
+<!-- For more settings use the AutoHTML plugin tab ... --> 
+<div class="boots" >
+    <img class="image-111" src="image-111.png" />
+    <div class="boots2" >
 Boots </div>
-    <div class="avaliablitiy" >
+    <div class="group-33525" >
+          <div class="avaliablitiy" >
 Avaliablitiy </div>
-    <div class="price" >
+          <div class="price" >
 Price </div>
-    <div class="rectangle-2504" >
-    </div>
-    <div class="in-stock-17" >
+          <div class="frame-95" >
+                <div class="rectangle-2504" >
+                </div>
+                <div class="in-stock-17" >
 In stock (17) </div>
-    <div class="rectangle-2505" >
-    </div>
-    <div class="out-of-stock-20" >
+          </div>
+          <div class="frame-96" >
+                <div class="rectangle-2505" >
+                </div>
+                <div class="out-of-stock-20" >
 out of stock (20) </div>
-    <div class="rp-0-00-rp-475-00-00" >
-Rp.0,00     Rp.475.00,00  </div>
-    <svg class="line-6" width="140" viewBox="0 0 140 0" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M0 0H140" stroke="black"/>
-    </svg>
+          </div>
+          <div class="frame-94" >
+                <div class="rp-0-00-rp-815-00-00" >
+Rp.0,00     Rp.815.00,00  </div>
+                <svg class="line-6" width="140" viewBox="0 0 140 0" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M0 0H140" stroke="black"/>
+                </svg>
+          </div>
+    </div>
     <div class="vuesax-bold-arrow-left" >
           <div class="vuesax-bold-arrow-left2" >
                 <svg class="arrow-left" width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M22.0003 3.66663C11.8803 3.66663 3.66699 11.88 3.66699 22C3.66699 32.12 11.8803 40.3333 22.0003 40.3333C32.1203 40.3333 40.3337 32.12 40.3337 22C40.3337 11.88 32.1203 3.66663 22.0003 3.66663ZM28.417 23.375H18.902L22.0553 26.5283C22.587 27.06 22.587 27.94 22.0553 28.4716C21.7803 28.7466 21.432 28.875 21.0837 28.875C20.7353 28.875 20.387 28.7466 20.112 28.4716L14.612 22.9716C14.0803 22.44 14.0803 21.56 14.612 21.0283L20.112 15.5283C20.6437 14.9966 21.5237 14.9966 22.0553 15.5283C22.587 16.06 22.587 16.94 22.0553 17.4716L18.902 20.625H28.417C29.1687 20.625 29.792 21.2483 29.792 22C29.792 22.7516 29.1687 23.375 28.417 23.375Z" fill="#292D32"/>
+                      <path d="M21.9993 3.66669C11.8793 3.66669 3.66602 11.88 3.66602 22C3.66602 32.12 11.8793 40.3334 21.9993 40.3334C32.1193 40.3334 40.3327 32.12 40.3327 22C40.3327 11.88 32.1193 3.66669 21.9993 3.66669ZM28.416 23.375H18.901L22.0543 26.5284C22.586 27.06 22.586 27.94 22.0543 28.4717C21.7793 28.7467 21.431 28.875 21.0827 28.875C20.7343 28.875 20.386 28.7467 20.111 28.4717L14.611 22.9717C14.0793 22.44 14.0793 21.56 14.611 21.0284L20.111 15.5284C20.6427 14.9967 21.5227 14.9967 22.0543 15.5284C22.586 16.06 22.586 16.94 22.0543 17.4717L18.901 20.625H28.416C29.1677 20.625 29.791 21.2484 29.791 22C29.791 22.7517 29.1677 23.375 28.416 23.375Z" fill="white"/>
                 </svg>
           </div>
     </div>
     <div class="rectangle-2507" >
     </div>
-    <div class="rectangle-2506" >
+    <div class="group-33519" >
+          <div class="group-3" >
+                <div class="rectangle-11" >
+                </div>
+                <div class="vuesax-linear-arrow-right" >
+                      <div class="vuesax-linear-arrow-right2" >
+                            <svg class="arrow-right" width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M15.7188 20.75L8.92708 13.9583C8.125 13.1562 8.125 11.8438 8.92708 11.0417L15.7188 4.25" stroke="#FEFFFF" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                      </div>
+                </div>
+          </div>
+          <div class="group-5" >
+                <div class="rectangle-12" >
+                </div>
+                <div class="vuesax-linear-arrow-left" >
+                      <div class="vuesax-linear-arrow-left2" >
+                            <svg class="arrow-left2" width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M7.81358 17.4583L13.4733 11.7985C14.1417 11.1301 14.1417 10.0364 13.4733 9.36797L7.81358 3.70825" stroke="#FEFFFF" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                      </div>
+                </div>
+          </div>
     </div>
-    <img class="image-19" src="gambar/image 19.png" />
-    <div class="rectangle-2515" >
-    </div>
-    <div class="sale" >
+    <div class="group-33572" >
+          <div class="rectangle-2506" >
+          </div>
+          <div class="frame-138" >
+                <img class="image-29" src="image-29.png" />
+                <div class="frame-98" >
+                      <div class="arketo-boots-vintage-brown-bs" >
+Arketo Boots Vintage Brown BS </div>
+                      <div class="group-33528" >
+                            <div class="rp-825-000-00-rp-784-000-00" >
+Rp 825.000,00  Rp 784.000,00 </div>
+                            <svg class="vector-163" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M0 0H97" stroke="black"/>
+                            </svg>
+                      </div>
+                </div>
+          </div>
+          <div class="group-33526" >
+                <div class="rectangle-2515" >
+                </div>
+                <div class="sale" >
 Sale </div>
-    <div class="active-broslides-full-black" >
-Active Broslides Full Black </div>
-    <div class="rp-160-000-00-rp-132-000-00" >
-Rp 160.000,00  Rp 132.000,00 </div>
-    <svg class="vector-163" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M0 0H97" stroke="black"/>
-    </svg>
-    <img class="image-20" src="gambar/image 20.png" />
-    <div class="rectangle-25152" >
+          </div>
     </div>
-    <div class="sale2" >
+    <div class="frame-114" >
+          <div class="group-33551" >
+                <div class="rectangle-25152" >
+                </div>
+                <img class="image-30" src="image-30.png" />
+                <div class="group-33527" >
+                      <div class="rectangle-25153" >
+                      </div>
+                      <div class="sale2" >
 Sale </div>
-    <div class="active-pacer-full-white" >
-Active Pacer Full White </div>
-    <div class="rp-395-000-00-rp-295-000-00" >
-Rp 395.000,00  Rp 295.000,00 </div>
-    <svg class="vector-1632" width="99" viewBox="0 0 99 0" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M0 0H98.5" stroke="black"/>
-    </svg>
-    <div class="rectangle-2508" >
+                </div>
+          </div>
+          <div class="frame-98" >
+                <div class="hustley-urban-boots-dark-choco-bs" >
+Hustley Urban Boots Dark Choco BS </div>
+                <div class="group-335282" >
+                      <div class="rp-1-150-000-00-rp-600-000-00" >
+Rp 1.150.000,00  Rp 600.000,00 </div>
+                      <svg class="vector-1632" width="104" viewBox="0 0 104 0" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0 0H103.5" stroke="black"/>
+                      </svg>
+                </div>
+          </div>
     </div>
-    <img class="unnamed-1-removebg-preview-3" src="gambar/sepatu 4.png" />
-    <div class="rectangle-25153" >
-    </div>
-    <div class="sale3" >
+    <div class="frame-115" >
+          <div class="group-33552" >
+                <div class="rectangle-2508" >
+                </div>
+                <img class="image-31" src="image-31.png" />
+                <div class="group-33530" >
+                      <div class="rectangle-25153" >
+                      </div>
+                      <div class="sale2" >
 Sale </div>
-    <div class="active-vtg-court-hi-natural-navy-gs" >
-Active VTG Court Hi Natural Navy Gs </div>
-    <div class="rp-495-000-00-rp-470-000-00" >
-Rp 495.000,00  Rp 470.000,00 </div>
-    <div class="line-7" >
+                </div>
+          </div>
+          <div class="frame-104" >
+                <div class="alpha-urban-boots-dark-choco-bs" >
+Alpha Urban Boots Dark Choco BS </div>
+                <div class="group-33539" >
+                      <div class="rp-1-350-000-00-rp-815-000-00" >
+Rp 1.350.000,00  Rp 815.000,00 </div>
+                      <svg class="line-7" width="107" viewBox="0 0 107 0" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0 0H107" stroke="black"/>
+                      </svg>
+                </div>
+          </div>
     </div>
-    <div class="rectangle-2509" >
-    </div>
-    <img class="image-21" src="gambar/image 21.png" />
-    <div class="rectangle-25154" >
-    </div>
-    <div class="sale4" >
+    <div class="frame-117" >
+          <div class="group-33554" >
+                <div class="rectangle-2509" >
+                </div>
+                <img class="image-32" src="image-32.png" />
+                <div class="group-33526" >
+                      <div class="rectangle-25153" >
+                      </div>
+                      <div class="sale2" >
 Sale </div>
-    <div class="active-corado-black-ws" >
-Active Corado Black WS </div>
-    <div class="rp-699-000-00-rp-475-000-00" >
-Rp 699.000,00  Rp 475.000,00 </div>
-    <svg class="vector-1633" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M0 0H97" stroke="black"/>
-    </svg>
-    <div class="rectangle-2510" >
+                </div>
+          </div>
+          <div class="frame-101" >
+                <div class="alpha-e-dark-choco-bs" >
+Alpha E + Dark Choco BS </div>
+                <div class="group-335283" >
+                      <div class="rp-825-000-00-rp-495-000-00" >
+Rp 825.000,00  Rp 495.000,00 </div>
+                      <svg class="vector-1633" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0 0H97" stroke="black"/>
+                      </svg>
+                </div>
+          </div>
     </div>
-    <img class="image-27" src="gambar/image 27.png" />
-    <div class="frame-103" >
-          <div class="sale5" >
+    <div class="frame-118" >
+          <div class="group-33555" >
+                <div class="rectangle-2510" >
+                </div>
+                <img class="image-33" src="image-33.png" />
+                <div class="frame-103" >
+                      <div class="sale3" >
 Sale </div>
+                </div>
+          </div>
+          <div class="frame-100" >
+                <div class="munson-boots-dark-choco" >
+Munson Boots Dark Choco </div>
+                <div class="group-33528" >
+                      <div class="rp-950-000-00-rp-621-000-00" >
+Rp 950.000,00  Rp 621.000,00 </div>
+                      <svg class="vector-1634" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0 0H97" stroke="black"/>
+                      </svg>
+                </div>
+          </div>
     </div>
-    <div class="active-sprint-all-white" >
-Active Sprint All White </div>
-    <div class="rp-385-000-00-rp-315-000-00" >
-Rp 385.000,00  Rp 315.000,00 </div>
-    <svg class="vector-1634" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M0 0H97" stroke="black"/>
-    </svg>
-    <div class="line-8" >
-    </div>
-    <div class="rectangle-2511" >
-    </div>
-    <img class="image-23" src="gambar/image 23.png" />
-    <div class="rectangle-25155" >
-    </div>
-    <div class="sale6" >
+    <div class="frame-120" >
+          <div class="group-33556" >
+                <div class="rectangle-2511" >
+                </div>
+                <img class="image-34" src="image-34.png" />
+                <div class="group-33526" >
+                      <div class="rectangle-25153" >
+                      </div>
+                      <div class="sale2" >
 Sale </div>
-    <div class="active-sprint-black-ws" >
-Active Sprint Black Ws </div>
-    <div class="rp-385-000-00-rp-323-000-00" >
-Rp 385.000,00  Rp 323.000,00 </div>
-    <div class="rectangle-2514" >
+                </div>
+          </div>
+          <div class="frame-119" >
+                <div class="compo-heritage-hi-fulll-ivory" >
+Compo Heritage Hi Fulll Ivory </div>
+                <div class="rp-323-000-00" >
+Rp 323.000,00 </div>
+          </div>
     </div>
-    <img class="image-26" src="image-26.png" />
-    <div class="rectangle-25156" >
-    </div>
-    <div class="sale7" >
-Sale </div>
-    <div class="active-husher-full-black" >
-Active Husher Full Black </div>
-    <div class="rp-385-000-00-rp-323-000-002" >
-Rp 385.000,00  Rp 323.000,00 </div>
-    <div class="line-10" >
+    <div class="frame-123" >
+          <div class="group-33558" >
+                <div class="rectangle-2513" >
+                </div>
+                <img class="image-36" src="image-36.png" />
+                <div class="group-33535" >
+                      <div class="frame-102" >
+                            <div class="sold-out" >
+Sold Out </div>
+                      </div>
+                </div>
+          </div>
+          <div class="frame-122" >
+                <div class="campo-heritage-hi-full-white" >
+Campo Heritage Hi Full White </div>
+                <div class="rp-375-000-00" >
+Rp 375.000,00 </div>
+          </div>
     </div>
     <div class="rectangle-2512" >
     </div>
-    <img class="image-24" src="gambar/image 24.png" />
-    <div class="frame-102" >
-          <div class="sold-out" >
-Sold Out </div>
-    </div>
-    <div class="active-kaze-racer-black-white-ws" >
-Active Kaze Racer Black White WS </div>
-    <div class="rp-385-000-00-rp-315-000-002" >
-Rp 385.000,00  Rp 315.000,00 </div>
-    <svg class="line-9" width="100" height="3" viewBox="0 0 100 3" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M0.494141 1.5L99.4995 1.50003" stroke="black"/>
-    </svg>
-    <div class="rectangle-2513" >
-    </div>
-    <img class="image-25" src="image-25.png" />
-    <div class="frame-1022" >
-          <div class="sold-out" >
-Sold Out </div>
-    </div>
-    <div class="active-pacer-navy-lgs" >
-Active Pacer Navy LGS </div>
-    <div class="rp-395-000-00-rp-200-000-00" >
-          <span>
-                <span class="rp-395-000-00-rp-200-000-00-span">Rp 395.000,00</span>
-                <span class="rp-395-000-00-rp-200-000-00-span2">  Rp 200.000,00</span>
-          </span>
-    </div>
-    <div class="rectangle-11" >
-    </div>
-    <div class="vuesax-linear-arrow-right" >
-          <div class="vuesax-linear-arrow-right2" >
-                <svg class="arrow-right" width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M15.7188 20.75L8.92708 13.9583C8.125 13.1562 8.125 11.8438 8.92708 11.0417L15.7188 4.25" stroke="#FEFFFF" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                </svg>
+    <div class="frame-121" >
+          <img class="image-35" src="image-35.png" />
+          <div class="frame-109" >
+                <div class="compo-heritage-hi-fulll-black" >
+Compo Heritage Hi Fulll Black </div>
+                <div class="group-33546" >
+                      <div class="rp-375-000-002" >
+Rp 375.000,00 </div>
+                </div>
           </div>
     </div>
-    <div class="rectangle-12" >
-    </div>
-    <div class="vuesax-linear-arrow-left" >
-          <div class="vuesax-linear-arrow-left2" >
-                <svg class="arrow-left2" width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M7.81261 17.4584L13.4723 11.7987C14.1407 11.1302 14.1407 10.0365 13.4723 9.3681L7.81261 3.70837" stroke="#FEFFFF" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                </svg>
+    <div class="group-33534" >
+          <div class="frame-1022" >
+                <div class="sold-out" >
+Sold Out </div>
           </div>
     </div>
 </div>
