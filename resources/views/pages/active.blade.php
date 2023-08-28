@@ -102,7 +102,7 @@ Rp 699.000,00  Rp 475.000,00 </div>
     </svg>
     <div class="rectangle-2510" >
     </div>
-    <img class="image-27" src="gambar/image 23.png" />
+    <img class="image-27" src="gambar/image 27.png" />
     <div class="frame-103" >
           <div class="sale5" >
 Sale </div>
@@ -118,7 +118,7 @@ Rp 385.000,00  Rp 315.000,00 </div>
     </div>
     <div class="rectangle-2511" >
     </div>
-    <img class="image-23" src="gambar/image 24.png" />
+    <img class="image-23" src="gambar/image 23.png" />
     <div class="rectangle-25155" >
     </div>
     <div class="sale6" >
@@ -142,7 +142,7 @@ Rp 385.000,00  Rp 323.000,00 </div>
     </div>
     <div class="rectangle-2512" >
     </div>
-    <img class="image-24" src="gambar/image 26.png" />
+    <img class="image-24" src="gambar/image 24.png" />
     <div class="frame-102" >
           <div class="sold-out" >
 Sold Out </div>
