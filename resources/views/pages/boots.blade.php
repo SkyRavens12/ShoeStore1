@@ -9,7 +9,7 @@
 
 <!-- For more settings use the AutoHTML plugin tab ... --> 
 <div class="boots" >
-    <img class="image-111" src="image-111.png" />
+    <img class="image-111" src="gambar/image 111.png" />
     <div class="boots2" >
 Boots </div>
     <div class="group-33525" >
@@ -74,7 +74,7 @@ Rp.0,00     Rp.815.00,00  </div>
           <div class="rectangle-2506" >
           </div>
           <div class="frame-138" >
-                <img class="image-29" src="image-29.png" />
+                <img class="image-29" src="gambar/image 29.png" />
                 <div class="frame-98" >
                       <div class="arketo-boots-vintage-brown-bs" >
 Arketo Boots Vintage Brown BS </div>
@@ -98,7 +98,7 @@ Sale </div>
           <div class="group-33551" >
                 <div class="rectangle-25152" >
                 </div>
-                <img class="image-30" src="image-30.png" />
+                <img class="image-30" src="gambar/image 30.png" />
                 <div class="group-33527" >
                       <div class="rectangle-25153" >
                       </div>
@@ -122,7 +122,7 @@ Rp 1.150.000,00  Rp 600.000,00 </div>
           <div class="group-33552" >
                 <div class="rectangle-2508" >
                 </div>
-                <img class="image-31" src="image-31.png" />
+                <img class="image-31" src="gambar/image 31.png" />
                 <div class="group-33530" >
                       <div class="rectangle-25153" >
                       </div>
@@ -146,7 +146,7 @@ Rp 1.350.000,00  Rp 815.000,00 </div>
           <div class="group-33554" >
                 <div class="rectangle-2509" >
                 </div>
-                <img class="image-32" src="image-32.png" />
+                <img class="image-32" src="gambar/image 32.png" />
                 <div class="group-33526" >
                       <div class="rectangle-25153" >
                       </div>
@@ -170,7 +170,7 @@ Rp 825.000,00  Rp 495.000,00 </div>
           <div class="group-33555" >
                 <div class="rectangle-2510" >
                 </div>
-                <img class="image-33" src="image-33.png" />
+                <img class="image-33" src="gambar/image 33.png" />
                 <div class="frame-103" >
                       <div class="sale3" >
 Sale </div>
@@ -192,7 +192,7 @@ Rp 950.000,00  Rp 621.000,00 </div>
           <div class="group-33556" >
                 <div class="rectangle-2511" >
                 </div>
-                <img class="image-34" src="image-34.png" />
+                <img class="image-34" src="gambar/image 34.png" />
                 <div class="group-33526" >
                       <div class="rectangle-25153" >
                       </div>
@@ -211,7 +211,7 @@ Rp 323.000,00 </div>
           <div class="group-33558" >
                 <div class="rectangle-2513" >
                 </div>
-                <img class="image-36" src="image-36.png" />
+                <img class="image-36" src="gambar/image 35.png" />
                 <div class="group-33535" >
                       <div class="frame-102" >
                             <div class="sold-out" >
@@ -229,7 +229,7 @@ Rp 375.000,00 </div>
     <div class="rectangle-2512" >
     </div>
     <div class="frame-121" >
-          <img class="image-35" src="image-35.png" />
+          <img class="image-35" src="gambar/image 36.png" />
           <div class="frame-109" >
                 <div class="compo-heritage-hi-fulll-black" >
 Compo Heritage Hi Fulll Black </div>
