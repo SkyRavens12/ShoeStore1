@@ -26,3 +26,7 @@ Route::get('/active', function () {
 Route::get('/boots', function () {
     return view('pages.boots');
 });
+
+Route::get('/sandals', function () {
+    return view('pages.sandals');
+});
