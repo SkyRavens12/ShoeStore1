@@ -48,7 +48,7 @@
                         <li><a class="dropdown-item" href="boots">Boots</a></li>
                         <li><a class="dropdown-item" href="sandals">Sandals</a></li>
                         <li><a class="dropdown-item" href="signature">Signature</a></li>
-                        <li><a class="dropdown-item" href="#">Sneakers</a></li>
+                        <li><a class="dropdown-item" href="sneakers">Sneakers</a></li>
                     </ul>
 
             </li>

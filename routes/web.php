@@ -34,3 +34,7 @@ Route::get('/sandals', function () {
 Route::get('/signature', function () {
     return view('pages.signature');
 });
+
+Route::get('/sneakers', function () {
+    return view('pages.sneakers');
+});

@@ -1,0 +1,933 @@
+.sneakers, .sneakers * {
+    box-sizing: border-box;
+    }
+.sneakers {
+   background: #ffffff;
+    width: 1440px;
+    height: 2410px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.image-50 {
+   width: 1440px;
+    height: 526px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.sneakers2 {
+   color: #ffffff;
+    text-align: left;
+    font: 700 92px 'Manrope', sans-serif;
+    position: absolute;
+    left: 513px;
+   top: 200px;
+   }
+
+.group-33525 {
+   position: absolute;
+    inset: 0;
+   }
+
+.avaliablitiy {
+   color: #000000;
+    text-align: left;
+    font: 600 16px 'Manrope', sans-serif;
+    position: absolute;
+    left: 521px;
+   top: 592px;
+   }
+
+.price {
+   color: #000000;
+    text-align: left;
+    font: 600 16px 'Manrope', sans-serif;
+    position: absolute;
+    left: 731px;
+   top: 592px;
+   }
+
+.frame-95 {
+   display: flex;
+    flex-direction: row;
+    gap: 22px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 521px;
+   top: 629px;
+   }
+
+.rectangle-2504 {
+   background: #ffffff;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    position: relative;
+   }
+
+.in-stock-17 {
+   color: #000000;
+    text-align: left;
+    font: 500 16px 'Manrope', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-96 {
+   display: flex;
+    flex-direction: row;
+    gap: 22px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 521px;
+   top: 667px;
+   }
+
+.rectangle-2505 {
+   background: #ffffff;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    position: relative;
+   }
+
+.out-of-stock-20 {
+   color: #000000;
+    text-align: left;
+    font: 500 16px 'Manrope', sans-serif;
+    position: relative;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.frame-94 {
+   display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 731px;
+   top: 629px;
+   }
+
+.rp-0-00-rp-815-00-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 18px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.line-6 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.vuesax-bold-arrow-left {
+   width: 44px;
+    height: 44px;
+    position: absolute;
+    left: 1336px;
+   top: 60px;
+   }
+
+.vuesax-bold-arrow-left2 {
+   position: absolute;
+    inset: 0;
+   }
+
+.arrow-left {
+   position: absolute;
+    left: 0px;
+   top: 0px;
+    overflow: visible;
+   }
+
+.rectangle-2507 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 697px;
+   top: -1283px;
+   }
+
+.group-33519 {
+   position: absolute;
+    inset: 0;
+   }
+
+.group-3 {
+   width: 50px;
+    height: 50px;
+    position: static;
+   }
+
+.rectangle-11 {
+   background: #390562;
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 660px;
+   top: 2300px;
+   }
+
+.vuesax-linear-arrow-right {
+   width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 698px;
+   top: 2312px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+   }
+
+.vuesax-linear-arrow-right2 {
+   position: absolute;
+    inset: 0;
+   }
+
+.arrow-right {
+   position: absolute;
+    left: 0px;
+   top: 0px;
+    overflow: visible;
+   }
+
+.group-5 {
+   width: 50px;
+    height: 50px;
+    position: static;
+   }
+
+.rectangle-12 {
+   background: #ef534a;
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 730px;
+   top: 2300px;
+   }
+
+.vuesax-linear-arrow-left {
+   width: 20.83px;
+    height: 20.83px;
+    position: absolute;
+    left: 765.83px;
+   top: 2314.17px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+   }
+
+.vuesax-linear-arrow-left2 {
+   position: absolute;
+    inset: 0;
+   }
+
+.arrow-left2 {
+   position: absolute;
+    left: 0px;
+   top: 0px;
+    overflow: visible;
+   }
+
+.frame-153 {
+   display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 60px;
+   top: 1279px;
+   }
+
+.group-33565 {
+   flex-shrink: 0;
+    width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.rectangle-2509 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.group-33589 {
+   width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.image-51 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.group-33526 {
+   width: 72px;
+    height: 46px;
+    position: static;
+   }
+
+.rectangle-2515 {
+   background: #de4f55;
+    width: 72px;
+    height: 46px;
+    position: absolute;
+    left: 310px;
+   top: 0px;
+   }
+
+.sale {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 326px;
+   top: 9px;
+   }
+
+.frame-152 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.vtg-v-2-hi-natural-white-ws {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.frame-101 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.group-33528 {
+   flex-shrink: 0;
+    width: 208px;
+    height: 20px;
+    position: static;
+   }
+
+.rp-395-000-00-rp-336-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 46px;
+   top: 0px;
+   }
+
+.vector-163 {
+   position: absolute;
+    left: 47.5px;
+   top: 11px;
+    overflow: visible;
+   }
+
+.rectangle-2496 {
+   background: #fafafa;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-width: 1px;
+    width: 599px;
+    height: 956px;
+    position: absolute;
+    left: 10124px;
+   top: 872px;
+   }
+
+.frame-148 {
+   display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 60px;
+   top: 789px;
+   }
+
+.group-33585 {
+   flex-shrink: 0;
+    width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.rectangle-2506 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.group-33584 {
+   width: 72px;
+    height: 46px;
+    position: static;
+   }
+
+.frame-98 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.vtg-v-2-hi-olive-ow {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.group-335282 {
+   flex-shrink: 0;
+    width: 209px;
+    height: 20px;
+    position: static;
+   }
+
+.rp-395-000-00-rp-302-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 47.5px;
+   top: 27px;
+   }
+
+.vector-1632 {
+   position: absolute;
+    left: 49px;
+   top: 38px;
+    overflow: visible;
+   }
+
+.frame-151 {
+   display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 998px;
+   top: 789px;
+   }
+
+.group-33588 {
+   flex-shrink: 0;
+    width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.rectangle-2508 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.group-33587 {
+   width: 72px;
+    height: 46px;
+    position: static;
+   }
+
+.frame-104 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.vtg-v-2-hi-navy-ws {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.group-33539 {
+   flex-shrink: 0;
+    width: 209px;
+    height: 20px;
+    position: static;
+   }
+
+.line-7 {
+   position: absolute;
+    left: 49.5px;
+   top: 37.5px;
+    overflow: visible;
+   }
+
+.frame-154 {
+   display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 529px;
+   top: 1279px;
+   }
+
+.group-33590 {
+   flex-shrink: 0;
+    width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.rectangle-2510 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.group-33583 {
+   width: 72px;
+    height: 46px;
+    position: static;
+   }
+
+.rectangle-2516 {
+   background: #de4f55;
+    width: 72px;
+    height: 46px;
+    position: absolute;
+    left: 310px;
+   top: 0px;
+   }
+
+.frame-100 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.vtg-v-2-hi-black-ws {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.rp-395-000-00-rp-356-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 44px;
+   top: 0px;
+   }
+
+.vector-1633 {
+   position: absolute;
+    left: 45.5px;
+   top: 11px;
+    overflow: visible;
+   }
+
+.frame-157 {
+   display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 60px;
+   top: 1769px;
+   }
+
+.group-33592 {
+   flex-shrink: 0;
+    width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.rectangle-2512 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.frame-102 {
+   background: #540779;
+    padding: 9px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 284px;
+   top: 0px;
+    overflow: hidden;
+   }
+
+.sold-out {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.frame-109 {
+   display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.corado-heritage-full-white {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.group-33546 {
+   flex-shrink: 0;
+    width: 99px;
+    height: 20px;
+    position: static;
+   }
+
+.rp-397-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 99.5px;
+   top: 31px;
+   }
+
+.frame-158 {
+   display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 60px;
+   top: 1769px;
+   }
+
+.frame-159 {
+   display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 529px;
+   top: 1769px;
+   }
+
+.group-33593 {
+   flex-shrink: 0;
+    width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.rectangle-2513 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.corado-heritage-white-navy-ows {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.rp-397-000-002 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 104.5px;
+   top: 31px;
+   }
+
+.frame-156 {
+   display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 998px;
+   top: 1279px;
+   }
+
+.group-33591 {
+   flex-shrink: 0;
+    width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.rectangle-2511 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.group-33582 {
+   width: 72px;
+    height: 46px;
+    position: static;
+   }
+
+.frame-155 {
+   display: flex;
+    flex-direction: column;
+    gap: 2px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.vtg-v-2-slip-on-black-ws {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.group-33561 {
+   flex-shrink: 0;
+    width: 204px;
+    height: 20px;
+    position: static;
+   }
+
+.rp-375-000-00-rp-316-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 47px;
+   top: 29px;
+   }
+
+.vector-165 {
+   position: absolute;
+    left: 48.5px;
+   top: 40.5px;
+    overflow: visible;
+   }
+
+.frame-150 {
+   display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 529px;
+   top: 789px;
+   }
+
+.group-33586 {
+   flex-shrink: 0;
+    width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.rectangle-25152 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.group-33527 {
+   width: 72px;
+    height: 46px;
+    position: static;
+   }
+
+.frame-149 {
+   display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.vtg-v-2-navy-ws {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.group-335283 {
+   flex-shrink: 0;
+    width: 207px;
+    height: 20px;
+    position: static;
+   }
+
+.rp-375-000-00-rp-284-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 44.5px;
+   top: 27px;
+   }
+
+.vector-1634 {
+   position: absolute;
+    left: 46px;
+   top: 38px;
+    overflow: visible;
+   }
+
+.frame-256 {
+   display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 998px;
+   top: 1769px;
+   }
+
+.group-33690 {
+   flex-shrink: 0;
+    width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.image-112 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.group-33594 {
+   width: 382px;
+    height: 390px;
+    position: static;
+   }
+
+.rectangle-2514 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.frame-112 {
+   display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.corado-heritage-white-olive-ows {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.group-33548 {
+   flex-shrink: 0;
+    width: 100px;
+    height: 20px;
+    position: static;
+   }
+
+.rp-379-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 104.5px;
+   top: 31px;
+   }
+
