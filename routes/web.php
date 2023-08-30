@@ -30,3 +30,7 @@ Route::get('/boots', function () {
 Route::get('/sandals', function () {
     return view('pages.sandals');
 });
+
+Route::get('/signature', function () {
+    return view('pages.signature');
+});
