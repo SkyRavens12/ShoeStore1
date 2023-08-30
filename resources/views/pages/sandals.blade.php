@@ -13,7 +13,7 @@
     </div>
     <div class="rectangle-2496" >
     </div>
-    <img class="dhruv-i-1-yy-s-kk-8-kne-unsplash-1" src="dhruv-i-1-yy-s-kk-8-kne-unsplash-1.png" />
+    <img class="dhruv-i-1-yy-s-kk-8-kne-unsplash-1" src="gambar/sandal top.png" />
     <div class="sandals2" >
 Sandals </div>
     <div class="s" >
@@ -78,7 +78,7 @@ Rp 160.000,00  Rp 90.000,00 </div>
     </div>
     <div class="rectangle-2506" >
     </div>
-    <img class="unnamed-2-removebg-preview-2" src="unnamed-2-removebg-preview-2.png" />
+    <img class="unnamed-2-removebg-preview-2" src="gambar/sandal garuda.png" />
     <div class="group-33526" >
           <div class="rectangle-25152" >
           </div>
@@ -100,7 +100,7 @@ Rp 160.000,00  Rp 95.000,00 </div>
           <div class="sale3" >
 Sale </div>
     </div>
-    <img class="unnamed-3-removebg-preview-2" src="unnamed-3-removebg-preview-2.png" />
+    <img class="unnamed-3-removebg-preview-2" src="gambar/sandal garuda 2.png" />
     <div class="garuda-broslide-white-red" >
 Garuda Broslide White Red </div>
     <div class="rp-160-000-00-rp-145-000-00" >
@@ -169,7 +169,7 @@ Rp 175.000,00  Rp 90.000,00 </div>
     </svg>
     <div class="rectangle-25155" >
     </div>
-    <img class="image-42" src="image-42.png" />
+    <img class="image-42" src="gambar/image 42.png" />
     <div class="group-33527" >
           <div class="rectangle-25156" >
           </div>
