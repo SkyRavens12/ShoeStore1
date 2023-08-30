@@ -112,7 +112,7 @@ Rp 160.000,00  Rp 145.000,00 </div>
     </div>
     <div class="sale4" >
 Sale </div>
-    <img class="unnamed-4-removebg-preview-1" src="unnamed-4-removebg-preview-1.png" />
+    <img class="unnamed-4-removebg-preview-1" src="gambar/sandals 7.png" />
     <div class="garuda-broslide-strap-full-black" >
 Garuda Broslide Strap Full Black </div>
     <div class="rp-160-000-00-rp-95-000-002" >
@@ -126,7 +126,7 @@ Rp 160.000,00  Rp 95.000,00 </div>
           <div class="sold-out" >
 Sold Out </div>
     </div>
-    <img class="unnamed-5-removebg-preview-1" src="unnamed-5-removebg-preview-1.png" />
+    <img class="unnamed-5-removebg-preview-1" src="gambar/sandals 8.png" />
     <div class="agni-dark-choco-bs" >
 Agni Dark Choco BS </div>
     <div class="group-33546" >
@@ -135,7 +135,7 @@ Rp 175.000,00 </div>
     </div>
     <div class="rectangle-2514" >
     </div>
-    <img class="unnamed-6-removebg-preview-1" src="unnamed-6-removebg-preview-1.png" />
+    <img class="unnamed-6-removebg-preview-1" src="gambar/sandals 10.png" />
     <div class="tama-cruise-dark-choco" >
 Tama Cruise Dark Choco </div>
     <div class="group-33548" >
@@ -148,7 +148,7 @@ Rp 165.000,00 </div>
           <div class="sold-out" >
 Sold Out </div>
     </div>
-    <img class="unnamed-7-removebg-preview-1" src="unnamed-7-removebg-preview-1.png" />
+    <img class="unnamed-7-removebg-preview-1" src="gambar/sandals 9.png" />
     <div class="sapta-black-bs" >
 Sapta Black BS </div>
     <div class="rp-475-000-00-rp-361-000-00" >
@@ -159,7 +159,7 @@ Rp 475.000,00  Rp 361.000,00 </div>
     </div>
     <div class="sale5" >
 Sale </div>
-    <img class="unnamed-8-removebg-preview-1" src="unnamed-8-removebg-preview-1.png" />
+    <img class="unnamed-8-removebg-preview-1" src="gambar/sandals six.png" />
     <div class="masimo-slider-full-black" >
 Masimo Slider Full Black </div>
     <div class="rp-175-000-00-rp-90-000-00" >
