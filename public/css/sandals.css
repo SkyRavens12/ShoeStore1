@@ -1,0 +1,749 @@
+.sandals, .sandals * {
+    box-sizing: border-box;
+    }
+.sandals {
+   background: #ffffff;
+    width: 1440px;
+    height: 2410px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.rectangle-2507 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 697px;
+   top: -1283px;
+   }
+
+.rectangle-2496 {
+   background: #fafafa;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-width: 1px;
+    width: 599px;
+    height: 956px;
+    position: absolute;
+    left: 10124px;
+   top: 872px;
+   }
+
+.dhruv-i-1-yy-s-kk-8-kne-unsplash-1 {
+   width: 1443px;
+    height: 526px;
+    position: absolute;
+    left: -3px;
+   top: 0px;
+   }
+
+.sandals2 {
+   color: #ffffff;
+    text-align: left;
+    font: 700 92px 'Manrope', sans-serif;
+    position: absolute;
+    left: 542px;
+   top: 200px;
+   }
+
+.s {
+   text-align: left;
+    font: 700 92px 'Manrope', sans-serif;
+    position: absolute;
+    left: 542px;
+   top: 200px;
+   }
+
+.avaliablitiy {
+   color: #000000;
+    text-align: left;
+    font: 600 16px 'Manrope', sans-serif;
+    position: absolute;
+    left: 521px;
+   top: 592px;
+   }
+
+.price {
+   color: #000000;
+    text-align: left;
+    font: 600 16px 'Manrope', sans-serif;
+    position: absolute;
+    left: 731px;
+   top: 592px;
+   }
+
+.rectangle-2504 {
+   background: #ffffff;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 521px;
+   top: 630px;
+   }
+
+.in-stock-17 {
+   color: #000000;
+    text-align: left;
+    font: 500 16px 'Manrope', sans-serif;
+    position: absolute;
+    left: 563px;
+   top: 629px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.rectangle-2505 {
+   background: #ffffff;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 521px;
+   top: 667px;
+   }
+
+.out-of-stock-20 {
+   color: #000000;
+    text-align: left;
+    font: 500 16px 'Manrope', sans-serif;
+    position: absolute;
+    left: 563px;
+   top: 667px;
+    display: flex;
+   align-items: center;
+   justify-content: flex-start}
+
+.rp-0-00-rp-815-00-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 18px 'Manrope', sans-serif;
+    position: absolute;
+    left: 731px;
+   top: 629px;
+   }
+
+.line-6 {
+   position: absolute;
+    left: 756px;
+   top: 686px;
+    overflow: visible;
+   }
+
+.vuesax-bold-arrow-left {
+   width: 44px;
+    height: 44px;
+    position: absolute;
+    left: 1336px;
+   top: 60px;
+   }
+
+.vuesax-bold-arrow-left2 {
+   position: absolute;
+    inset: 0;
+   }
+
+.arrow-left {
+   position: absolute;
+    left: 0px;
+   top: 0px;
+    overflow: visible;
+   }
+
+.rectangle-11 {
+   background: #390562;
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 660px;
+   top: 2300px;
+   }
+
+.vuesax-linear-arrow-right {
+   width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 698px;
+   top: 2312px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+   }
+
+.vuesax-linear-arrow-right2 {
+   position: absolute;
+    inset: 0;
+   }
+
+.arrow-right {
+   position: absolute;
+    left: 0px;
+   top: 0px;
+    overflow: visible;
+   }
+
+.rectangle-12 {
+   background: #ef534a;
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 730px;
+   top: 2300px;
+   }
+
+.vuesax-linear-arrow-left {
+   width: 20.83px;
+    height: 20.83px;
+    position: absolute;
+    left: 765.83px;
+   top: 2314.17px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+   }
+
+.vuesax-linear-arrow-left2 {
+   position: absolute;
+    inset: 0;
+   }
+
+.arrow-left2 {
+   position: absolute;
+    left: 0px;
+   top: 0px;
+    overflow: visible;
+   }
+
+.rectangle-2509 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 60px;
+   top: 1279px;
+   }
+
+.image-43 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 60px;
+   top: 1279px;
+   }
+
+.rectangle-2515 {
+   background: #de4f55;
+    width: 72px;
+    height: 46px;
+    position: absolute;
+    left: 370px;
+   top: 1279px;
+   }
+
+.sale {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 386px;
+   top: 1288px;
+   }
+
+.garuda-broslide-white-green {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 118.5px;
+   top: 1674px;
+   }
+
+.group-33528 {
+   position: absolute;
+    inset: 0;
+   }
+
+.rp-160-000-00-rp-90-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 151.5px;
+   top: 1701px;
+   }
+
+.vector-163 {
+   position: absolute;
+    left: 153px;
+   top: 1712px;
+    overflow: visible;
+   }
+
+.rectangle-2506 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 60px;
+   top: 789px;
+   }
+
+.unnamed-2-removebg-preview-2 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 60px;
+   top: 789px;
+   }
+
+.group-33526 {
+   position: absolute;
+    inset: 0;
+   }
+
+.rectangle-25152 {
+   background: #de4f55;
+    width: 72px;
+    height: 46px;
+    position: absolute;
+    left: 370px;
+   top: 789px;
+   }
+
+.sale2 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 386px;
+   top: 798px;
+   }
+
+.garuda-broslide-strap-red-white {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 102.5px;
+   top: 1184px;
+   }
+
+.rp-160-000-00-rp-95-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 151.5px;
+   top: 1211px;
+   }
+
+.vector-1632 {
+   position: absolute;
+    left: 153px;
+   top: 1222px;
+    overflow: visible;
+   }
+
+.rectangle-2508 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 998px;
+   top: 789px;
+   }
+
+.group-33530 {
+   position: absolute;
+    inset: 0;
+   }
+
+.rectangle-25153 {
+   background: #de4f55;
+    width: 72px;
+    height: 46px;
+    position: absolute;
+    left: 1308px;
+   top: 789px;
+   }
+
+.sale3 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 1324px;
+   top: 798px;
+   }
+
+.unnamed-3-removebg-preview-2 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 998px;
+   top: 789px;
+   }
+
+.garuda-broslide-white-red {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 1066.5px;
+   top: 1184px;
+   }
+
+.rp-160-000-00-rp-145-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 1087px;
+   top: 1211px;
+   }
+
+.line-7 {
+   position: absolute;
+    left: 1089px;
+   top: 1221.5px;
+    overflow: visible;
+   }
+
+.rectangle-2510 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 529px;
+   top: 1279px;
+   }
+
+.sale4 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 855px;
+   top: 1288px;
+   }
+
+.unnamed-4-removebg-preview-1 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 529px;
+   top: 1279px;
+   }
+
+.garuda-broslide-strap-full-black {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 575.5px;
+   top: 1674px;
+   }
+
+.rp-160-000-00-rp-95-000-002 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 620.5px;
+   top: 1701px;
+   }
+
+.vector-1633 {
+   position: absolute;
+    left: 622px;
+   top: 1712px;
+    overflow: visible;
+   }
+
+.rectangle-2512 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 60px;
+   top: 1769px;
+   }
+
+.frame-102 {
+   background: #540779;
+    padding: 9px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 344px;
+   top: 1769px;
+    overflow: hidden;
+   }
+
+.sold-out {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: relative;
+   }
+
+.unnamed-5-removebg-preview-1 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 60px;
+   top: 1769px;
+   }
+
+.agni-dark-choco-bs {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 161px;
+   top: 2164px;
+   }
+
+.group-33546 {
+   position: absolute;
+    inset: 0;
+   }
+
+.rp-175-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 202.5px;
+   top: 2195px;
+   }
+
+.rectangle-2514 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 998px;
+   top: 1769px;
+   }
+
+.unnamed-6-removebg-preview-1 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 998px;
+   top: 1769px;
+   }
+
+.tama-cruise-dark-choco {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 1076.5px;
+   top: 2164px;
+   }
+
+.group-33548 {
+   position: absolute;
+    inset: 0;
+   }
+
+.rp-165-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 1139.5px;
+   top: 2195px;
+   }
+
+.rectangle-2513 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 529px;
+   top: 1769px;
+   }
+
+.frame-1022 {
+   background: #540779;
+    padding: 9px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 813px;
+   top: 1769px;
+    overflow: hidden;
+   }
+
+.unnamed-7-removebg-preview-1 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 529px;
+   top: 1769px;
+   }
+
+.sapta-black-bs {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 651.5px;
+   top: 2164px;
+   }
+
+.rp-475-000-00-rp-361-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 618px;
+   top: 2195px;
+   }
+
+.rectangle-2511 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 998px;
+   top: 1279px;
+   }
+
+.rectangle-25154 {
+   background: #de4f55;
+    width: 72px;
+    height: 46px;
+    position: absolute;
+    left: 1308px;
+   top: 1279px;
+   }
+
+.sale5 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 1324px;
+   top: 1288px;
+   }
+
+.unnamed-8-removebg-preview-1 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 998px;
+   top: 1279px;
+   }
+
+.masimo-slider-full-black {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 1080.5px;
+   top: 1674px;
+   }
+
+.rp-175-000-00-rp-90-000-00 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 1090.5px;
+   top: 1703px;
+   }
+
+.vector-165 {
+   position: absolute;
+    left: 1092px;
+   top: 1714.5px;
+    overflow: visible;
+   }
+
+.rectangle-25155 {
+   background: #d9d9d9;
+    width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 529px;
+   top: 789px;
+   }
+
+.image-42 {
+   width: 382px;
+    height: 390px;
+    position: absolute;
+    left: 529px;
+   top: 789px;
+   }
+
+.group-33527 {
+   position: absolute;
+    inset: 0;
+   }
+
+.rectangle-25156 {
+   background: #de4f55;
+    width: 72px;
+    height: 46px;
+    position: absolute;
+    left: 839px;
+   top: 789px;
+   }
+
+.sale6 {
+   color: #ffffff;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 855px;
+   top: 798px;
+   }
+
+.garuda-broslide-strap-green {
+   color: #000000;
+    text-align: left;
+    font: 400 20px 'Manrope', sans-serif;
+    position: absolute;
+    left: 590px;
+   top: 1184px;
+   }
+
+.rp-160-000-00-rp-95-000-003 {
+   color: #000000;
+    text-align: left;
+    font: 400 15px 'Manrope', sans-serif;
+    position: absolute;
+    left: 620.5px;
+   top: 1211px;
+   }
+
+.vector-1634 {
+   position: absolute;
+    left: 622px;
+   top: 1222px;
+    overflow: visible;
+   }
+
+.vector-166 {
+   position: absolute;
+    left: 620px;
+   top: 2205px;
+    overflow: visible;
+   }
+

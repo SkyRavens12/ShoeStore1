@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <link rel="stylesheet" href="boots.style.css">
+    <link rel="stylesheet" href="css/boots.css">
 </head>
 
 </body>
