@@ -75,7 +75,7 @@ Rp 395.000,00  Rp 295.000,00 </div>
     </svg>
     <div class="rectangle-2508" >
     </div>
-    <img class="unnamed-1-removebg-preview-3" src="gambar/sepatu 4.png" />
+    <img class="unnamed-1-removebg-preview-3" src="gambar/image 22.png" />
     <div class="rectangle-25153" >
     </div>
     <div class="sale3" >
@@ -129,7 +129,7 @@ Active Sprint Black Ws </div>
 Rp 385.000,00  Rp 323.000,00 </div>
     <div class="rectangle-2514" >
     </div>
-    <img class="image-26" src="image-26.png" />
+    <img class="image-26" src="gambar/image 25.png" />
     <div class="rectangle-25156" >
     </div>
     <div class="sale7" >
@@ -156,7 +156,7 @@ Rp 385.000,00  Rp 315.000,00 </div>
     </svg>
     <div class="rectangle-2513" >
     </div>
-    <img class="image-25" src="image-25.png" />
+    <img class="image-25" src="gambar/image 27.png" />
     <div class="frame-1022" >
           <div class="sold-out" >
 Sold Out </div>
