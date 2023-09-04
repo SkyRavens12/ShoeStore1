@@ -87,7 +87,7 @@ Sale </div>
 Ventura Eco Full Black </div>
                 <div class="frame-101" >
                       <div class="group-33528" >
-                            <div class="rp-525-000-00-rp-385-000-00" >
+                            <div class="rp-1-525-000-00-rp-385-000-00" >
 Rp 525.000,00  Rp 385.000,00 </div>
                             <svg class="vector-163" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                                   <path d="M0 0H97" stroke="black"/>
@@ -114,7 +114,7 @@ Sale </div>
                 <div class="signore-canvas-navy-is" >
 Signore Canvas Navy IS </div>
                 <div class="group-33539" >
-                      <div class="rp-489-000-00-rp-241-000-00" >
+                      <div class="rp-1-489-000-00-rp-241-000-00" >
 Rp 489.000,00  Rp 241.000,00 </div>
                       <svg class="line-7" width="98" viewBox="0 0 98 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M0 0H97.5" stroke="black"/>
@@ -135,7 +135,7 @@ Sale </div>
 Signore Low Eco Full Black </div>
                 <div class="frame-101" >
                       <div class="group-335282" >
-                            <div class="rp-645-000-00-rp-385-000-00" >
+                            <div class="rp-1-645-000-00-rp-385-000-00" >
 Rp 645.000,00  Rp 385.000,00 </div>
                             <svg class="vector-1632" width="99" viewBox="0 0 99 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                                   <path d="M0 0H98.5" stroke="black"/>
@@ -205,10 +205,10 @@ Sale </div>
                 </div>
           </div>
           <div class="frame-127" >
-                <div class="signore-eco-full-black" >
+                <div class="base-signore-eco-full-black" >
 Signore Eco Full Black </div>
                 <div class="group-335612" >
-                      <div class="rp-525-000-00-rp-385-000-002" >
+                      <div class="rp-1-525-000-00-rp-385-000-002" >
 Rp 525.000,00  Rp 385.000,00 </div>
                       <svg class="vector-1652" width="98" viewBox="0 0 98 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M0 0H97.7354" stroke="black"/>

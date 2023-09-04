@@ -158,7 +158,7 @@ Sale </div>
                 <div class="alpha-e-dark-choco-bs" >
 Alpha E + Dark Choco BS </div>
                 <div class="group-335283" >
-                      <div class="rp-825-000-00-rp-495-000-00" >
+                      <div class="rp-1-825-000-00-rp-495-000-00" >
 Rp 825.000,00  Rp 495.000,00 </div>
                       <svg class="vector-1633" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M0 0H97" stroke="black"/>
@@ -180,7 +180,7 @@ Sale </div>
                 <div class="munson-boots-dark-choco" >
 Munson Boots Dark Choco </div>
                 <div class="group-33528" >
-                      <div class="rp-950-000-00-rp-621-000-00" >
+                      <div class="rp-1-950-000-00-rp-621-000-00" >
 Rp 950.000,00  Rp 621.000,00 </div>
                       <svg class="vector-1634" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M0 0H97" stroke="black"/>
@@ -211,7 +211,7 @@ Rp 323.000,00 </div>
           <div class="group-33558" >
                 <div class="rectangle-2513" >
                 </div>
-                <img class="image-36" src="gambar/image 35.png" />
+                <img class="image-36" src="gambar/image 36.png" />
                 <div class="group-33535" >
                       <div class="frame-102" >
                             <div class="sold-out" >
@@ -229,7 +229,7 @@ Rp 375.000,00 </div>
     <div class="rectangle-2512" >
     </div>
     <div class="frame-121" >
-          <img class="image-35" src="gambar/image 36.png" />
+          <img class="image-35" src="gambar/image 35.png" />
           <div class="frame-109" >
                 <div class="compo-heritage-hi-fulll-black" >
 Compo Heritage Hi Fulll Black </div>
