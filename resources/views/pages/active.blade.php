@@ -6,7 +6,7 @@
 </body>
 </html>
 
-<!-- For more settings use the AutoHTML plugin tab ... --> 
+
 <div class="active" >
     <img class="image-active" src="gambar/image 17.png" />
     <div class="ive">
@@ -73,19 +73,8 @@ Rp 395.000,00  Rp 295.000,00 </div>
     <svg class="vector-1632" width="99" viewBox="0 0 99 0" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M0 0H98.5" stroke="black"/>
     </svg>
-    <div class="rectangle-2508" >
-    </div>
-    <img class="unnamed-1-removebg-preview-3" src="gambar/image 22.png" />
-    <div class="rectangle-25153" >
-    </div>
-    <div class="sale3" >
-Sale </div>
-    <div class="active-vtg-court-hi-natural-navy-gs" >
-Active VTG Court Hi Natural Navy Gs </div>
-    <div class="rp-495-000-00-rp-470-000-00" >
-Rp 495.000,00  Rp 470.000,00 </div>
-    <div class="line-7" >
-    </div>
+    
+    
     <div class="rectangle-2509" >
     </div>
     <img class="image-21" src="gambar/image 21.png" />
@@ -129,19 +118,6 @@ Active Sprint Black Ws </div>
 Rp 385.000,00  Rp 323.000,00 </div>
     <div class="rectangle-2514" >
     </div>
-    <img class="image-26" src="gambar/image 25.png" />
-    <div class="rectangle-25156" >
-    </div>
-    <div class="sale7" >
-Sale </div>
-    <div class="active-husher-full-black" >
-Active Husher Full Black </div>
-    <div class="rp-385-000-00-rp-323-000-002" >
-Rp 385.000,00  Rp 323.000,00 </div>
-    <div class="line-10" >
-    </div>
-    <div class="rectangle-2512" >
-    </div>
     <img class="image-24" src="gambar/image 24.png" />
     <div class="frame-102" >
           <div class="sold-out" >
@@ -156,7 +132,7 @@ Rp 385.000,00  Rp 315.000,00 </div>
     </svg>
     <div class="rectangle-2513" >
     </div>
-    <img class="image-25" src="gambar/image 27.png" />
+    <img class="image-25" src="gambar/image 25.png" />
     <div class="frame-1022" >
           <div class="sold-out" >
 Sold Out </div>

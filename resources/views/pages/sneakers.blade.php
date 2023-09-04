@@ -89,7 +89,7 @@ Sale </div>
 VTG V.2 HI Natural White WS </div>
                 <div class="frame-101" >
                       <div class="group-33528" >
-                            <div class="rp-395-000-00-rp-336-000-00" >
+                            <div class="rp-1-395-000-00-rp-336-000-00" >
 Rp 395.000,00  Rp 336.000,00 </div>
                             <svg class="vector-163" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                                   <path d="M0 0H97" stroke="black"/>
@@ -114,7 +114,7 @@ Sale </div>
                 <div class="vtg-v-2-hi-olive-ow" >
 VTG V.2 HI Olive OW </div>
                 <div class="group-335282" >
-                      <div class="rp-395-000-00-rp-302-000-00" >
+                      <div class="rp-1-395-000-00-rp-302-000-00" >
 Rp 395.000,00  Rp 302.000,00 </div>
                       <svg class="vector-1632" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M0 0H97" stroke="black"/>
@@ -136,7 +136,7 @@ Sale </div>
                 <div class="vtg-v-2-hi-navy-ws" >
 VTG V.2 HI Navy WS </div>
                 <div class="group-33539" >
-                      <div class="rp-395-000-00-rp-302-000-00" >
+                      <div class="rp-1-395-000-00-rp-302-000-00" >
 Rp 395.000,00  Rp 302.000,00 </div>
                       <svg class="line-7" width="98" viewBox="0 0 98 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M0 0H97.5" stroke="black"/>
@@ -159,7 +159,7 @@ Sale </div>
 VTG V.2 HI Black WS </div>
                 <div class="frame-101" >
                       <div class="group-335282" >
-                            <div class="rp-395-000-00-rp-356-000-00" >
+                            <div class="rp-1-395-000-00-rp-356-000-00" >
 Rp 395.000,00  Rp 356.000,00 </div>
                             <svg class="vector-1633" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                                   <path d="M0 0H97" stroke="black"/>
@@ -168,37 +168,23 @@ Rp 395.000,00  Rp 356.000,00 </div>
                 </div>
           </div>
     </div>
-    <div class="frame-157" >
-          <div class="group-33592" >
-                <img class="rectangle-2512" src="gambar/sneakers 7.png" />
-                <div class="frame-102" >
+ <div class="frame-158" >
+      <div class="group-33592" >
+              <img class="rectangle-2512" src="gambar/sneakers 7.png" />
+              <div class="frame-102" >
                       <div class="sold-out" >
 Sold Out </div>
-                </div>
-          </div>
-          <div class="frame-109" >
-                <div class="corado-heritage-full-white" >
+              </div>
+      </div>
+      <div class="frame-109" >
+              <div class="corado-heritage-full-white" >
 Corado Heritage Full White </div>
-                <div class="group-33546" >
+              <div class="group-33546" >
                       <div class="rp-397-000-00" >
 Rp 397.000,00 </div>
-                </div>
-          </div>
-    </div
-    <div class="frame-158" >
-          <div class="group-33592" >
-                <img class="rectangle-2512" src="gambar/sneakers 7.png" />
-                <div class="frame-102" >
-                      <div class="sold-out" >
-Sold Out </div>
-                </div>
-          </div>
-          <div class="frame-109" >
-                <div class="corado-heritage-full-white" >
-Corado Heritage Full White </div>
-                <div class="group-33546" >
-                      <div class="rp-397-000-00" >
-Rp 397.000,00 </div>
+              </div>
+      </div>
+</div>
                 </div>
           </div>
     </div>
@@ -233,7 +219,7 @@ Sale </div>
                 <div class="vtg-v-2-slip-on-black-ws" >
 VTG V.2 Slip On Black WS </div>
                 <div class="group-33561" >
-                      <div class="rp-375-000-00-rp-316-000-00" >
+                      <div class="rp-1-375-000-00-rp-316-000-00" >
 Rp 375.000,00  Rp 316.000,00 </div>
                       <svg class="vector-165" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M0 0H96.5" stroke="black"/>
@@ -255,7 +241,7 @@ Sale </div>
                 <div class="vtg-v-2-navy-ws" >
 VTG V.2 Navy WS </div>
                 <div class="group-335283" >
-                      <div class="rp-375-000-00-rp-284-000-00" >
+                      <div class="rp-1-   375-000-00-rp-284-000-00" >
 Rp 375.000,00  Rp 284.000,00 </div>
                       <svg class="vector-1634" width="97" viewBox="0 0 97 0" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M0 0L96.5 0" stroke="black"/>
