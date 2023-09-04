@@ -38,3 +38,7 @@ Route::get('/signature', function () {
 Route::get('/sneakers', function () {
     return view('pages.sneakers');
 });
+
+Route::get('/back_button', function () {
+    return view('pages.home');
+});
