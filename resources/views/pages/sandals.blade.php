@@ -62,7 +62,7 @@ Rp.0,00     Rp.815.00,00  </div>
     </div>
     <div class="rectangle-2509" >
     </div>
-    <img class="image-43" src="image-43.png" />
+    <img class="image-43" src="gambar/sandals 6.png" />
     <div class="rectangle-2515" >
     </div>
     <div class="sale" >
