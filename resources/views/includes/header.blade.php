@@ -52,8 +52,22 @@
                     </ul>
 
             </li>
-            </ul>
 
+            <li class="nav-item dropdown">
+                <a class="nav-link mx-2 dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" 
+                    data-bs-toggle="dropdown" aria-expanded="false">
+                    Essentials
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <li><a class="dropdown-item" href="#">Daily Wear</a></li>
+                    <li><a class="dropdown-item" href="#">Smart Casual</a></li>
+                    <li><a class="dropdown-item" href="#">Outdoor Wear</a></li>
+                    <li><a class="dropdown-item" href="#">Essentials</a></li>
+                    <li><a class="dropdown-item" href="#">SKJ1992</a></li>
+                </ul>
+
+        </li>
+        </ul>
             
 
             
